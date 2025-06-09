@@ -1,0 +1,10 @@
+database:
+   host: "localhost"
+   port: "1433"
+   instanceName: "PREM-PC"
+   user: "sa"
+   password: "sa"
+   databaseName: "OFFICE"
+
+api:
+  id:       
